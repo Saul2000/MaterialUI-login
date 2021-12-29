@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TodoListImproving/MaterialUI-login/static/css/main.b6fc4f46.css",
+    "main.js": "/TodoListImproving/MaterialUI-login/static/js/main.dc7dc772.js",
+    "static/js/787.ba569be8.chunk.js": "/TodoListImproving/MaterialUI-login/static/js/787.ba569be8.chunk.js",
+    "index.html": "/TodoListImproving/MaterialUI-login/index.html",
+    "main.b6fc4f46.css.map": "/TodoListImproving/MaterialUI-login/static/css/main.b6fc4f46.css.map",
+    "main.dc7dc772.js.map": "/TodoListImproving/MaterialUI-login/static/js/main.dc7dc772.js.map",
+    "787.ba569be8.chunk.js.map": "/TodoListImproving/MaterialUI-login/static/js/787.ba569be8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6fc4f46.css",
+    "static/js/main.dc7dc772.js"
+  ]
+}
